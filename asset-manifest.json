@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wetterProject/static/css/main.41294d90.css",
+    "main.js": "/wetterProject/static/js/main.80ce0963.js",
+    "static/js/787.d9312eb8.chunk.js": "/wetterProject/static/js/787.d9312eb8.chunk.js",
+    "static/media/cloud.png": "/wetterProject/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/wetterProject/index.html",
+    "main.41294d90.css.map": "/wetterProject/static/css/main.41294d90.css.map",
+    "main.80ce0963.js.map": "/wetterProject/static/js/main.80ce0963.js.map",
+    "787.d9312eb8.chunk.js.map": "/wetterProject/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41294d90.css",
+    "static/js/main.80ce0963.js"
+  ]
+}
